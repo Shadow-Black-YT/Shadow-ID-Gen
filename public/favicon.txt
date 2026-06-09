@@ -1,0 +1,1 @@
+add your favicon.ico instead of txt for the web
